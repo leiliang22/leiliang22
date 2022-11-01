@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @leil
-- 👀 I’m interested in database
-- 🌱 I’m currently learning golang, rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, ^_^
 
 <!---
 leiliang22/leiliang22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
